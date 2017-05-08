@@ -1,0 +1,14 @@
+D:\Projects\Safari\EFMVC.Data\bin\Debug\EFMVC.Data.dll.config
+D:\Projects\Safari\EFMVC.Data\bin\Debug\EFMVC.Data.dll
+D:\Projects\Safari\EFMVC.Data\bin\Debug\EFMVC.Data.pdb
+D:\Projects\Safari\EFMVC.Data\bin\Debug\EFMVC.Model.dll
+D:\Projects\Safari\EFMVC.Data\bin\Debug\EntityFramework.dll
+D:\Projects\Safari\EFMVC.Data\bin\Debug\EFMVC.Core.dll
+D:\Projects\Safari\EFMVC.Data\bin\Debug\EFMVC.Model.pdb
+D:\Projects\Safari\EFMVC.Data\bin\Debug\EntityFramework.xml
+D:\Projects\Safari\EFMVC.Data\bin\Debug\EFMVC.Core.pdb
+D:\Projects\Safari\EFMVC.Data\obj\Debug\EFMVC.Data.csprojResolveAssemblyReference.cache
+D:\Projects\Safari\EFMVC.Data\obj\Debug\EFMVC.Data.Migrations.InitialCreate.resources
+D:\Projects\Safari\EFMVC.Data\obj\Debug\EFMVC.Data.csproj.GenerateResource.Cache
+D:\Projects\Safari\EFMVC.Data\obj\Debug\EFMVC.Data.dll
+D:\Projects\Safari\EFMVC.Data\obj\Debug\EFMVC.Data.pdb

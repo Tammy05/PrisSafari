@@ -1,0 +1,5 @@
+D:\Projects\Safari\EFMVC.Core\bin\Debug\EFMVC.Core.dll
+D:\Projects\Safari\EFMVC.Core\bin\Debug\EFMVC.Core.pdb
+D:\Projects\Safari\EFMVC.Core\obj\Debug\EFMVC.Core.csprojResolveAssemblyReference.cache
+D:\Projects\Safari\EFMVC.Core\obj\Debug\EFMVC.Core.dll
+D:\Projects\Safari\EFMVC.Core\obj\Debug\EFMVC.Core.pdb

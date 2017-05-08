@@ -1,0 +1,8 @@
+D:\Projects\Safari\EFMVC.Model\bin\Debug\EFMVC.Model.dll.config
+D:\Projects\Safari\EFMVC.Model\bin\Debug\EFMVC.Model.dll
+D:\Projects\Safari\EFMVC.Model\bin\Debug\EFMVC.Model.pdb
+D:\Projects\Safari\EFMVC.Model\bin\Debug\EFMVC.Core.dll
+D:\Projects\Safari\EFMVC.Model\bin\Debug\EFMVC.Core.pdb
+D:\Projects\Safari\EFMVC.Model\obj\Debug\EFMVC.Model.csprojResolveAssemblyReference.cache
+D:\Projects\Safari\EFMVC.Model\obj\Debug\EFMVC.Model.dll
+D:\Projects\Safari\EFMVC.Model\obj\Debug\EFMVC.Model.pdb
